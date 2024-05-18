@@ -12,7 +12,7 @@ This repo acts as a demo for the capabilities of dbt.
 - models:
 - seeds: place static files here (csv files,...).
 - snapshots:
-- tests:
+- tests: https://docs.getdbt.com/docs/build/data-tests
 
 # dbt_project.yml:
 
